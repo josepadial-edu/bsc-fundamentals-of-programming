@@ -1,13 +1,48 @@
-# Fundamentals of Programming (UGR)
+# Fundamentals of Programming – UGR
 
-This is a repository for the Fundamentals of Programming subject that I took in my first year of the Bachelor's Degree in Computer Engineering at University of Granada (UGR). Here you can find the notes, exercises and slides that I did for this subject.
+This repository contains course materials for the **Fundamentals of Programming** course, part of the **Bachelor’s Degree in Computer Science** at the **University of Granada (UGR)**.
 
-## Contents
+---
 
-- Notes: This folder contains the notes that I took for the Fundamentals of Programming subject.
-- Exercises: This folder contains the exercises that I did for the Fundamentals of Programming subject. The exercises are divided into different topics and levels of difficulty.
-- Slides: This folder contains the slides that I used for the Fundamentals of Programming subject. The slides are from the lectures and tutorials given by the professors.
+##  Course Overview
+This course introduces the fundamentals of programming and software development, focusing on language syntax, problem-solving techniques, and basic coding practices in various languages.
 
-## Contact
+### Core topics:
+- Basic programming syntax (C++)
+- Variables, data types, and operators
+- Control flow: conditionals and loops
+- Functions and modular programming
+- Data structures: arrays, lists
+- Debugging and testing fundamentals
+- Good coding practices and readability
 
-If you have any questions or suggestions about my repository, you can contact me at joseapadialmolina@gmail.com. Thank you for visiting my GitHub profile. 😊
+---
+
+##  Repository Structure
+- `Teoria/` → Lecture notes and theory summaries  
+- `Practicas/` → Practice problems and solutions  
+- `Material adicional/` → Lecture and tutorial slides  
+
+---
+
+##  Tools & Languages
+- **C++** → Practical coding exercises  
+- **scripts** for building and running code  
+
+---
+
+##  Academic Context
+- **Degree:** Bachelor’s in Computer Science (UGR)  
+- **Year:** 1st year  
+- **Semester:** 1st  
+- **Department:** Software Engineering / Programming  
+
+---
+
+[![Back to Index](https://img.shields.io/badge/←%20Back_to_Index-2ea44f?style=for-the-badge)](https://github.com/josepadial-edu/bachelor-computer-science-index)
+
+---
+
+## 📬 Contact
+For questions or suggestions about these repositories:  
+🔗 [GitHub Profile – josepadial](https://github.com/josepadial)
